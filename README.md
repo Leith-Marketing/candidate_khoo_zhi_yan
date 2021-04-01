@@ -1,4 +1,4 @@
-# Task For candidate_one
+# Task For Candidate Khoo Zhi Yan
 
 Build a Simple App (any category, eg. calculator)
 
